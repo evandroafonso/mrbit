@@ -1,4 +1,4 @@
-# MRBIT - desafio
+# COIN - conversor
 
 > **pontos norteadores:**
 

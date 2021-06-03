@@ -1,6 +1,6 @@
-# COIN - conversor
+# MRBIT - Cotação de criptomoedas
 
-> **pontos norteadores:**
+> **pontos norteadores para construção da aplicação:**
 
 - construir um painel de preços;
 - conectar o painel via API com um servidor de cotação;
@@ -13,9 +13,15 @@
 
 ### API
 
-> a atualização dos valores é realizada a partir do consumo da API:
+> a atualização dos valores é realizada da API:
 
 - [CoinMarketCap](https://coinmarketcap.com/api/documentation/v1/)
 
-> o controle do temporizador é realizado através da biblioteca `time`.
+> o controle do temporizador é realizado através da biblioteca: 
+
+- `time`.
+
+> a exibição do horário atual é realizado através da biblioteca:
+
+- `datetime`
 
